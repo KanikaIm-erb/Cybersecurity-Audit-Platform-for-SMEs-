@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=🛡️%20AutoSec%20Audit%20Platform&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automated%20Security%20Audit%20Platform%20for%20SMEs&descAlignY=58&descColor=a8dadc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20AutoSec%20Audit%20Platform&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automated%20Security%20Audit%20Platform%20for%20SMEs&descAlignY=58&descColor=a8dadc" width="100%"/>
 
 <br/>
 
