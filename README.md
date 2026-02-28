@@ -69,8 +69,11 @@ This platform addresses all of the above by providing an **automated, repeatable
 - Export formats: **PDF**, **HTML**, **JSON**, **CSV**
 
 **Tools & Tech:** `Flask` / `Streamlit`, `Jinja2`, `WeasyPrint`, `Chart.js`, `ReportLab`
-![Dashboard](asset/Dashboard.png)
-![Scan Management](asset/scan_management.png)
+
+<p align="center">
+  <img src="asset/Dashboard.png" width="800">
+</p>
+
 ---
 
 ### 🗂️ Asset Registration & Management
@@ -86,6 +89,8 @@ This platform addresses all of the above by providing an **automated, repeatable
 - Scan scheduling and assignment per asset or asset group
 
 **Tools & Tech:** `SQLite` / `PostgreSQL`, `SQLAlchemy`, `Flask-Admin`, custom Python asset manager
+
+![Register Asset](asset/register_asset.png)
 
 ---
 
@@ -103,6 +108,8 @@ This platform addresses all of the above by providing an **automated, repeatable
 - Detection of rogue or unregistered devices on the network
 
 **Tools & Tech:** `Nmap`, `Masscan`, `Netdiscover`
+
+![Network Scans](asset/network_scans.png)
 
 ---
 
@@ -122,6 +129,8 @@ This platform addresses all of the above by providing an **automated, repeatable
 - Directory traversal and path enumeration
 
 **Tools & Tech:** `OWASP ZAP`, `Nikto`, `WhatWeb`, `SSLyze`, `testssl.sh`
+
+![Web Scans](asset/WebScans.png)
 
 ---
 
