@@ -71,7 +71,7 @@ This platform addresses all of the above by providing an **automated, repeatable
 **Tools & Tech:** `Flask` / `Streamlit`, `Jinja2`, `WeasyPrint`, `Chart.js`, `ReportLab`
 
 <p align="center">
-  <img src="asset/Dashboard.png" width="800">
+  <img src="asset/asset_management.png" width="800">
 </p>
 
 ---
@@ -90,7 +90,9 @@ This platform addresses all of the above by providing an **automated, repeatable
 
 **Tools & Tech:** `SQLite` / `PostgreSQL`, `SQLAlchemy`, `Flask-Admin`, custom Python asset manager
 
-![Register Asset](asset/register_asset.png)
+<p align="center">
+  <img src="asset/register_asset" width="800">
+</p>
 
 ---
 
@@ -109,7 +111,9 @@ This platform addresses all of the above by providing an **automated, repeatable
 
 **Tools & Tech:** `Nmap`, `Masscan`, `Netdiscover`
 
-![Network Scans](asset/network_scans.png)
+<p align="center">
+  <img src="asset/network_scans.png" width="800">
+</p>
 
 ---
 
@@ -130,7 +134,9 @@ This platform addresses all of the above by providing an **automated, repeatable
 
 **Tools & Tech:** `OWASP ZAP`, `Nikto`, `WhatWeb`, `SSLyze`, `testssl.sh`
 
-![Web Scans](asset/WebScans.png)
+<p align="center">
+  <img src="asset/WebScans.png" width="800">
+</p>
 
 ---
 
@@ -149,6 +155,10 @@ This platform addresses all of the above by providing an **automated, repeatable
 
 **Tools & Tech:** `Nmap` (DB NSE scripts), `sqlmap`, `Metasploit` auxiliary modules, custom Python DB auditor
 
+<p align="center">
+  <img src="asset/database_scans.png" width="800">
+</p>
+
 ---
 
 ### ⚙️ Configuration File Scans
@@ -165,6 +175,10 @@ This platform addresses all of the above by providing an **automated, repeatable
 - CIS Benchmark and system hardening compliance checks
 
 **Tools & Tech:** `Lynis`, `TruffleHog`, `GitLeaks`, `Checkov`, custom grep-based secret scanner
+
+<p align="center">
+  <img src="asset/ConfigFiles_scans.png" width="800">
+</p>
 
 ---
 
