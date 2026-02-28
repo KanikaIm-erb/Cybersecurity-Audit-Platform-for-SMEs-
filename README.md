@@ -1,18 +1,15 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=🛡️%20AutoSec%20Audit%20Platform&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automated%20Security%20Audit%20Platform%20for%20SMEs&descAlignY=58&descColor=a8dadc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20Audit%20Platform&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automated%20Security%20Audit%20Platform%20for%20SMEs&descAlignY=58&descColor=a8dadc" width="100%"/>
 
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=shield&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 <br/>
-
-> **Empowering Small & Medium Enterprises with enterprise-grade security auditing — automated, affordable, and actionable.**
 
 </div>
 
@@ -21,8 +18,8 @@
 ## 📚 Table of Contents
 
 - [📖 Overview](#-overview)
-- [⚠️ Problem Statement](#️-problem-statement)
-- [✨ Key Features](#-key-features)
+- [ Problem Statement](#️-problem-statement)
+- [ Key Features](#-key-features)
   - [📊 Dashboard & Reporting](#-dashboard--reporting)
   - [🗂️ Asset Registration & Management](#️-asset-registration--management)
   - [🔍 Network Scans](#-network-scans)
@@ -31,7 +28,7 @@
   - [⚙️ Configuration File Scans](#️-configuration-file-scans)
 - [🛠️ Tools & Technology](#️-tools--technology)
 - [🚧 Further Work (In Progress)](#-further-work-in-progress)
-- [🙏 Credits & Acknowledgements](#-credits--acknowledgements)
+- [ Credits ](#-credits--acknowledgements)
 
 ---
 
@@ -43,23 +40,23 @@ Unlike expensive enterprise security suites, this platform brings together the b
 
 ---
 
-## ⚠️ Problem Statement
+## Problem Statement
 
 > *Small and medium-sized enterprises account for over **43% of all cybercrime targets** globally, yet most lack the resources to conduct regular, comprehensive security audits.*
 
 **The core challenges SMEs face:**
 
-- 💸 **Cost** — Professional penetration testing and security audits can cost thousands per engagement
-- 🧑‍💻 **Expertise Gap** — SMEs rarely employ dedicated security professionals
-- ⏱️ **Time** — Manual audits are slow, inconsistent, and rarely repeated
-- 📉 **Visibility** — Without continuous scanning, vulnerabilities go undetected for months
-- 📄 **Reporting** — Raw tool outputs are complex and not actionable for non-technical stakeholders
+-  **Cost** — Professional penetration testing and security audits can cost thousands per engagement
+-  **Expertise Gap** — SMEs rarely employ dedicated security professionals
+-  **Time** — Manual audits are slow, inconsistent, and rarely repeated
+-  **Visibility** — Without continuous scanning, vulnerabilities go undetected for months
+-  **Reporting** — Raw tool outputs are complex and not actionable for non-technical stakeholders
 
 This platform addresses all of the above by providing an **automated, repeatable, and report-ready** security audit pipeline tailored for the SME threat landscape.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### 📊 Dashboard & Reporting
 
@@ -185,47 +182,14 @@ This platform addresses all of the above by providing an **automated, repeatable
 
 The platform is actively being developed. The following features and improvements are currently in progress or planned for future releases:
 
-- [ ] 🖥️ **Full Web Dashboard** — Complete browser-based UI with scan scheduling, asset management, and live results
-- [ ] 📬 **Alert & Notification System** — Email/Slack alerts triggered when critical vulnerabilities are discovered
-- [ ] ☁️ **Cloud Asset Discovery** — Integration with AWS, Azure, and GCP APIs to scan cloud-hosted resources
-- [ ] 🔄 **CI/CD Pipeline Integration** — Plugin support for GitHub Actions and GitLab CI for DevSecOps workflows
-- [ ] 🤖 **AI-Powered Risk Prioritisation** — LLM-based contextual analysis to rank and explain remediation priorities
-- [ ] 📦 **One-Click Deployment** — Simplified Docker-based installer script for non-technical users
-- [ ] 🌍 **Multi-Tenancy Support** — Manage audits for multiple clients from a single instance (MSSP-ready)
-- [ ] 🗂️ **Historical Scan Comparison** — Delta reporting to track security posture improvement over time
-- [ ] 🧪 **Unit & Integration Testing Suite** — Comprehensive test coverage across all scanning modules
-
----
-
-## 🙏 Credits & Acknowledgements
-
-This platform is built on the shoulders of giants. Huge thanks to the open-source security community and the maintainers of the following projects:
-
-| Project | Link | Description |
-|---|---|---|
-| **Nmap** | [nmap.org](https://nmap.org/) | The world's most powerful network scanner |
-| **Masscan** | [github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) | High-speed internet-scale TCP port scanner |
-| **Netdiscover** | [github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) | Active/passive network address discovery |
-| **OWASP ZAP** | [zaproxy.org](https://www.zaproxy.org/) | Leading open-source web application security scanner |
-| **Nikto** | [github.com/sullo/nikto](https://github.com/sullo/nikto) | Web server misconfiguration and vulnerability scanner |
-| **WhatWeb** | [github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) | Web technology fingerprinting tool |
-| **SSLyze** | [github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) | SSL/TLS configuration analyser |
-| **testssl.sh** | [testssl.sh](https://testssl.sh/) | Shell-based TLS/SSL testing tool |
-| **sqlmap** | [sqlmap.org](https://sqlmap.org/) | Automatic SQL injection detection and exploitation |
-| **Metasploit** | [metasploit.com](https://www.metasploit.com/) | Penetration testing framework (auxiliary DB modules) |
-| **TruffleHog** | [github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | Searches codebases and configs for leaked secrets |
-| **GitLeaks** | [github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | Secret and credential leak detection in Git repos |
-| **Lynis** | [cisofy.com/lynis](https://cisofy.com/lynis/) | Security auditing and hardening tool for Unix/Linux |
-| **Checkov** | [checkov.io](https://www.checkov.io/) | Static analysis for infrastructure-as-code misconfigurations |
-| **OWASP Foundation** | [owasp.org](https://owasp.org/) | OWASP Top 10 framework and open security standards |
+- [ ]  **Full Web Dashboard** — Complete browser-based UI with scan scheduling, asset management, and live results
+- [ ]  **Alert & Notification System** — Email/Slack alerts triggered when critical vulnerabilities are discovered
+- [ ]  **Cloud Asset Discovery** — Integration with AWS, Azure, and GCP APIs to scan cloud-hosted resources
+- [ ]  **CI/CD Pipeline Integration** — Plugin support for GitHub Actions and GitLab CI for DevSecOps workflows
 
 ---
 
 <div align="center">
-
-**Made with ❤️ for the SME community**
-
-*Security should not be a luxury — it's a right.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
