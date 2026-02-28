@@ -21,8 +21,8 @@
 ## 📚 Table of Contents
 
 - [📖 Overview](#-overview)
-- [⚠️ Problem Statement](#️-problem-statement)
-- [✨ Key Features](#-key-features)
+- [Problem Statement](#️-problem-statement)
+- [Key Features](#-key-features)
   - [🔍 Network Scanning](#-network-scanning)
   - [🌐 Web Application Testing](#-web-application-testing)
   - [🔑 Authentication & Access Auditing](#-authentication--access-auditing)
