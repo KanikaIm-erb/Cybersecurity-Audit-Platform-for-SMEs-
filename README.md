@@ -69,7 +69,8 @@ This platform addresses all of the above by providing an **automated, repeatable
 - Export formats: **PDF**, **HTML**, **JSON**, **CSV**
 
 **Tools & Tech:** `Flask` / `Streamlit`, `Jinja2`, `WeasyPrint`, `Chart.js`, `ReportLab`
-
+![Dashboard](asset/Dashboard.png)
+![Scan Management](asset/scan_management.png)
 ---
 
 ### 🗂️ Asset Registration & Management
