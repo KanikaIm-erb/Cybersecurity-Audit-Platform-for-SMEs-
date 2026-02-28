@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20Audit%20Platform&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automated%20Security%20Audit%20Platform%20for%20SMEs&descAlignY=58&descColor=a8dadc" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=🛡️%20Automated%20Security%20Audit%20Platform&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=of%20Small%20%26%20Medium-sized%20Enterprises%20(SMEs)&descAlignY=58&descColor=a8dadc" width="100%"/>
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge&logo=github)
@@ -34,7 +32,7 @@
 
 ## 📖 Overview
 
-The **Automated Security Audit Platform for SMEs** is an open-source, end-to-end security auditing solution designed specifically for Small and Medium-sized Enterprises (SMEs). It orchestrates a suite of industry-standard open-source tools to automatically scan, assess, and report on an organisation's security posture — with minimal manual effort required.
+The **Automated Security Audit Platform for SMEs** is an open-source, end-to-end security auditing solution designed specifically for Small and Medium-sized Enterprises (SMEs). It orchestrates a suite of industry-standard open-source tools to automatically scan, assess, and report on an organisation's security posture.
 
 Unlike expensive enterprise security suites, this platform brings together the best free and open-source tools into a unified, easy-to-deploy pipeline — making robust cybersecurity accessible to organisations with limited IT resources and budgets.
 
