@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=🛡️%20Automated%20Security%20Audit%20Platform&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=of%20Small%20%26%20Medium-sized%20Enterprises%20(SMEs)&descAlignY=58&descColor=a8dadc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Automated%20Security%20Audit%20Platform&fontSize=30&fontColor=ffffff&fontAlignY=40&desc=of%20Small%20%26%20Medium-sized%20Enterprises%20(SMEs)&descAlignY=60&descColor=a8dadc" width="100%"/>
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge&logo=github)
